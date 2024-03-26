@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ACE2E1;
+}
+
+header {
+    background-color: #008DDA;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.introduction {
+    background-color: #41C9E2;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 57px;
+    text-align: center;
+}
+
+.skills {
+    margin: 20px;
+    padding: 20px;
+}
+
+.skills ul {
+    list-style: none;
+    padding: 0;
+}
+
+.skills li {
+    border: 1px solid #cccccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #070F2B;
+    color: #ACE2E1;
+    padding: 20px;
+    
+}
+
+.contact {
+    padding: 20px;
+}
